@@ -4,5 +4,5 @@
 
 Para rodar este projeot em sua máquina, por favor digite:
 ```
-ngm install react
+node app.js 
 ```

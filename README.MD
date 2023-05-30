@@ -1,4 +1,4 @@
-<h1>Sisteme de cadastro de jogos</h1>
+# Sisteme de cadastro de jogos
 
 > Status do projeto: Em desenvolvimento
 
